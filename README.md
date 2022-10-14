@@ -78,6 +78,12 @@ Project Output-----
 ![shopping](https://user-images.githubusercontent.com/108295187/195883762-66288704-676d-412e-9cd6-f34b9f5da9ba.jpg)
 
 
+Project Video-----
+
+
+https://www.loom.com/share/0ece1ecaea344a0ba73af26e85ace505
+
+
 
 
 
