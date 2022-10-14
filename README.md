@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+This project tells that now you can add any item and see its total price.
+
+
+Project Output-----
+
+![shopping](https://user-images.githubusercontent.com/108295187/195883762-66288704-676d-412e-9cd6-f34b9f5da9ba.jpg)
+
+
+
+
+
+
+
